@@ -14,3 +14,7 @@ cf)
 (제가 제출한 노트북은 사이트가 개편 되면서 본인들도 제 자료를 못찾았는지 
 
 모델링 부문 1등 한 사람 자료를 같이 시각화에 그대로 올려놓은듯 합니다.)
+
+해당 파이썬 notebook 요약 자료
+
+![타자 OPS 예측 요약](https://user-images.githubusercontent.com/53479967/115143904-b9e74200-a084-11eb-8b2f-fbefebcfc2bb.jpg)
