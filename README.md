@@ -9,7 +9,7 @@
 cf)
 6회 데이콘 타자 OPS 예측의 리더보드 public에 가시면 18위로 기록되어 있습니다. https://dacon.io/competitions/official/62540/leaderboard/
 
-6회 데이콘의 시각화 part 수상 1위 기록입니다. https://dacon.io/competitions/official/235546/overview/description/
+6회 데이콘의 시각화 part 수상 1위 기록입니다. https://dacon.io/competitions/official/235546/leaderboard/
 
 (제가 제출한 노트북은 사이트가 개편 되면서 본인들도 제 자료를 못찾았는지 
 
