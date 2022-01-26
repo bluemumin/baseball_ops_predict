@@ -1,5 +1,8 @@
 # dongguk_university_graduate_report_baseball_OPS_end
 
+- 사용언어 / 핵심 라이브러리
+ <p> python / Pandas, matplotlib, seaborn, plotly, BeautifulSoup, sklearn </p>
+
 - Background 
  <p> 현 시즌 타자 성적 기반, 다음 시즌의 타자들의 OPS(타자의 대표적 타격 지표) 성적 예측 </p>
 
