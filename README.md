@@ -31,4 +31,5 @@ cf)
 [데이콘 6회 KBO OPS 예측 시각화 부문 1등 기록](https://dacon.io/competitions/official/235546/leaderboard/) = 푸른무민
 
 + 문의 후 이동 가능(private)
-[데이콘 6회 KBO OPS 예측 시각화 부문 1등 파이썬 파일](https://github.com/bluemumin/six_dacon_insight) 에 private로 게시해놓았습니다.
+
+[데이콘 6회 KBO OPS 예측 시각화 부문 1등 파이썬 파일](https://github.com/bluemumin/six_dacon_insight)
